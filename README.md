@@ -1,9 +1,9 @@
-# DreamHouse Aura Sample Application
-
+# Salesforce Trailhead
     Module: Lightning Web Components for Aura Developers
                 Aura 開発者向け Lightning Web コンポーネント
     Sandbox: Dev1 
 
+# DreamHouse Aura Sample Application
 
 > **⚠️ IMPORTANT ⚠️ :** This is the Aura version of the DreamHouse sample application. If you are looking for the new Lightning Web Components version, click [here](https://github.com/dreamhouseapp/dreamhouse-lwc).
 
