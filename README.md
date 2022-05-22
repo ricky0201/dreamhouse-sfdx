@@ -1,5 +1,10 @@
 # DreamHouse Aura Sample Application
 
+    Module: Lightning Web Components for Aura Developers
+                Aura 開発者向け Lightning Web コンポーネント
+    Sandbox: Dev1 
+
+
 > **⚠️ IMPORTANT ⚠️ :** This is the Aura version of the DreamHouse sample application. If you are looking for the new Lightning Web Components version, click [here](https://github.com/dreamhouseapp/dreamhouse-lwc).
 
 ![dreamhouse-logo](dreamhouse-logo.png)
